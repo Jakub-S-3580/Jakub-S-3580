@@ -2,7 +2,7 @@ Hi, I’m @Jakub-S-3580
 
 - I’m interested in robotics and mechatronics engineering
   
-- I’m currently learning openscad, ev3dev, C++ and C and general CAD experience
+- I’m currently learning openscad, ev3dev, C++ and C and general CAD stuff
   
 - I’m looking to collaborate on any robotics stuff
   
